@@ -1,3 +1,4 @@
 - BELAJAR KOTLIN
+* ingin membuat aplikasi android
 - BELAJAR CSS DAN HTML
 - BELAJAR JAVASCRIPT
